@@ -1,4 +1,4 @@
-aaa
+aaa edit by master
 cjmcjmcjmcjm
 changes
 changes
@@ -10,3 +10,7 @@ for thrid times
 8
 9 10 compare
 Tortoise diff compare
+diff
+tortoise to merge
+
+
