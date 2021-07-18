@@ -1,3 +1,4 @@
+//7 15 7 18
 #include <stdio.h>
 #include <math.h>
 int g_row;
