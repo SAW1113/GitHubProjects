@@ -10,3 +10,5 @@ for thrid times
 8
 9 10 compare
 Tortoise diff compare
+diff
+
